@@ -1,0 +1,9 @@
+Package: it.dreamcode.cps
+Name: Cancella Per Sempre
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Michele Primavera
+Author: Michele Primavera
+Section: Tweaks
